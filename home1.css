@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background-color: white;
+  color: black;
+
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    width: 200px;
+    opacity: 0.2;
+}
+
+h1 {
+  margin: 1;
+  padding: 0 0 0 0;
+
+}
